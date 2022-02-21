@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sithlord68. I am a Swiss general IT specialist, who did programming in early jobs. I then became an technician, specialized in windows.
+- 👀 I’m interested in particulary: motorcycling, skiing, video gaming
+- 🌱 I’m currently learning Javascript with Firebase, wanting to develop my personal project, at last ! 
